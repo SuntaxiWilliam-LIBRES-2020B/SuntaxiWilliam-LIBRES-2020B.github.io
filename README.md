@@ -28,6 +28,12 @@ el cual permite la colaboración de varios personas en la misma.
 ## LICENCIA
 El generador de módulos tiene la licencia GNU General Public License versión 2 o posterior.
 
+## LABELS DEL PROYECTO
+
+1.  ´documentacion´
+2.  ´ayuda´
+3.  ´preguntas´
+
 ## DESCRIPCION GENERAL DEL PROYECTO
 En el desarrollo de la BIBLIOTECA VIRTUAL el o los fundadores son los que mantendrán el manejo del mismo.
 Donde si algún miembro de la comunidad desea implemntar una funcionalidad nueva al proyecto, este deberá ser aprobado por el o los fundadoresy en que caso de que no hay respuesta 
@@ -38,11 +44,10 @@ Donde si algún miembro de la comunidad desea implemntar una funcionalidad nueva
 -  Documentador
 -  Jefe del Proyecto
 -  Desarrollador
--  
 
-## LABELS DEL PROYECTO
+## TIPO DE GESTIÓN
 
-1.  ´documentacion´
-2.  ´ayuda´
-3.  ´preguntas´
+-  Programador
+
+
 
