@@ -1,17 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SuntaxiWilliam-LIBRES-2020B/SuntaxiWilliam-LIBRES-2020B.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
 # EXAMEN BIMESTRAL
 # PROYECTO.- BIBLIOTECA VIRTUAL
 
@@ -30,9 +16,9 @@ El generador de módulos tiene la licencia GNU General Public License versión 2
 
 ## LABELS DEL PROYECTO
 
-1.  ´documentacion´
-2.  ´ayuda´
-3.  ´preguntas´
+´documentacion´
+´ayuda´
+´preguntas´
 
 ## DESCRIPCION GENERAL DEL PROYECTO
 En el desarrollo de la BIBLIOTECA VIRTUAL el o los fundadores son los que mantendrán el manejo del mismo.
