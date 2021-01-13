@@ -16,13 +16,13 @@ El generador de módulos tiene la licencia GNU General Public License versión 2
 
 ## LABELS DEL PROYECTO
 
--  ´documentacion´
--  ´ayuda´
--  ´preguntas´
+-  documentacion
+-  ayuda
+-  preguntas
 
 ## DESCRIPCION GENERAL DEL PROYECTO
-En el desarrollo de la BIBLIOTECA VIRTUAL el o los fundadores son los que mantendrán el manejo del mismo.
-Donde si algún miembro de la comunidad desea implemntar una funcionalidad nueva al proyecto, este deberá ser aprobado por el o los fundadoresy en que caso de que no hay respuesta 
+BIBLIOTECA VIRTUAL es un proyecto OPEN SOURCE desarrollado por estudiantes de la EPN. 
+Se enfoca en la mejora de las bibliotecas ubicadas en toda el área que compone a dicha Universidad, siendo su única finalidad el de automatizar los procesos y mejorar los tiempos de respuesta. 
 
 ## ROLES DEL PROYECTO
 
@@ -31,9 +31,10 @@ Donde si algún miembro de la comunidad desea implemntar una funcionalidad nueva
 -  Jefe del Proyecto
 -  Desarrollador
 
-## TIPO DE GESTIÓN
+## TIPO DE GESTIÓN DEL PROYECTO
+En el desarrollo de la BIBLIOTECA VIRTUAL el o los fundadores son los que mantendrán el manejo del mismo.
+Donde si algún miembro de la comunidad desea implementar una funcionalidad nueva al proyecto, este deberá ser aprobado por el o los fundadores y en que caso de que no haya respuesta en un lapso determinado (7 días), se pondrá bajo votación de los documentadores, desarrolladores y programadores si se acepta o no dicho cambio.
 
--  Programador
 
 
 
