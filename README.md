@@ -16,9 +16,9 @@ El generador de módulos tiene la licencia GNU General Public License versión 2
 
 ## LABELS DEL PROYECTO
 
-´documentacion´
-´ayuda´
-´preguntas´
+-  ´documentacion´
+-  ´ayuda´
+-  ´preguntas´
 
 ## DESCRIPCION GENERAL DEL PROYECTO
 En el desarrollo de la BIBLIOTECA VIRTUAL el o los fundadores son los que mantendrán el manejo del mismo.
