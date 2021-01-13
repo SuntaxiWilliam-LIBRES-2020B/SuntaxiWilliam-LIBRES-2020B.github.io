@@ -37,6 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # EXAMEN BIMESTRAL
-# BIBLIOTECA VIRTUAL
+# PROYECTO.- BIBLIOTECA VIRTUAL
 
 ## OBJETIVOS
+1.  Realizar un control en tiempo real de el o los libros prestados a una eprsona
+1.  Mejorar el tiempo de entrega de un libro a una o varias personas
+1.  Controlar el manejo de los archivos documentados por parte del bibliotecario
+1.  Automatizar la operación de prestar libros
+
+
