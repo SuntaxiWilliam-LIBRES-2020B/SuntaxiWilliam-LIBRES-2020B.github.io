@@ -22,6 +22,9 @@ Syntax highlighted code block
 1.  Automatizar la operación de prestar libros
 
 ## FUNDADOR DEL PROYECTO
-En el año de 2020 siendo solo un proyecto de la Universidad EPN del Ecuador, William Suntaxi comienza un proyecto prometedor el cual permite la colaboración de varios personas en la misma.
+En el año de 2020 siendo solo un proyecto de la Universidad EPN del Ecuador, William Suntaxi comienza un proyecto prometedor 
+el cual permite la colaboración de varios personas en la misma.
 
+## LICENCIA
+El generador de módulos tiene la licencia GNU General Public License versión 2 o posterior. El módulo generado tiene licencia, como libvlc, bajo la GNU Lesser General Public License 2.1 o posterior.
 
